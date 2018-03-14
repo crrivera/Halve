@@ -3,8 +3,8 @@ layout: home
 ---
 # About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hi! My name is Carlos Rivera and I am currently a graduate computer science and engineering student and teaching assistant at [Santa Clara University](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/). I've been fortunate enough to have been at [NASA Ames Research Center](https://www.nasa.gov/ames) and Stellar Solution's [Quakefinder](https://www.quakefinder.com/).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I'm currently on the look for my next challenge (software engineering internship!). I'm always excited to meet new people so feel free to drop me a line.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+This site is still under construction so definitely stay tuned! In the meantime though, here is my [resume](https://www.quakefinder.com/).
